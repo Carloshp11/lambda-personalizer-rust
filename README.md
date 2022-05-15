@@ -1,0 +1,1 @@
+docker build . -f Docker/Dockerfile -t lamba_personalizer_rust
